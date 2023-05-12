@@ -4,7 +4,7 @@ Bu proje, sprint 7 gün 2'de öğrenilen kavram ve teknikleri uygulamanıza ve b
 
 ## Talimatlar
 
-Bu projede, takım üyelerini takip eden bir uygulama ayağa kaldıracaksın ve yapacaksın. Yeni takım oyuncusu ekleyebilecek ve hatta oyuncu detaylarını düzenleyebileceksin.
+Bu projede, takım üyelerini takip eden bir uygulama ayağa kaldıracaksın ve yapacaksın. Yeni takım oyuncusu ekleyebilecek ve hatta oyuncu detaylarını düzenleyebileceksin. İş akış mantığı (bussiness logic) için [linkteki](https://www.figma.com/file/AZhATY5zVq2teTzKJgCX8Q/S7G2?type=whiteboard&node-id=0%3A1&t=VeMRfMIHR7moH2zc-1) diagramı inceleyin Component ve Data Akış Diagramı. Bu diagram uygulamadaki componentler arasındaki ilişki göstermektedir. Ayrıca componentlerdeki veri iletişimi de detaylı olarak görselleştirilmiştir. Elinizdeki veri hangi componentten hangi componente yönlendirilmeli veya methodlar hangi component içinde tanımlanıp, hangi componente prop olarak aktarılmalı gibi soruların cevaplarını bulabilirsiniz. Lütfen diagramı okumaya başlamadan önce, diagramdaki nesnelerin ne anlama geldiğini ifade eden tabloyu (yine diagram içinde sol tarafta) inceleyiniz.
 
 
 ## Giriş
