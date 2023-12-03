@@ -1,0 +1,25 @@
+
+   
+html{
+background-color: rgba(33, 33, 33, 0.881);
+}
+
+
+
+.list{
+    text-align: center;
+    color:rgb(11, 22, 119);
+    font-style: italic;
+    margin: 20px;
+   
+    
+    
+}
+
+.list-main{
+box-shadow: 0px 3px 3px 0px rgb(12, 138, 180);
+padding: 5px;
+background-color: rgba(53, 114, 114, 0.373);
+
+
+}
